@@ -1,6 +1,6 @@
 [
   {
-    "chainId": 1116,
+    "chainId": 1115,
     "address": "0x25078A66841C60f2447446287B374D6f29b993A1",
     "name": "Faisaa Token",
     "symbol": "FAISAA",
@@ -8,15 +8,15 @@
     "logoURI": "https://raw.githubusercontent.com/faisaa-finance/faisaaX/main/faisaa-logo.testnet.svg"
   },
    {
-    "chainId": 1116,
-    "address": "0xf6077b8dacec85be11d8d2da04e1705668985bcf",
+    "chainId": 1115,
+    "address": "0xf6077b8DAcEc85be11d8D2dA04e1705668985Bcf",
     "name": "Wrapped Core",
     "symbol": "wCore",
     "decimals": 18,
     "logoURI": "https://scan.test.btcs.network/images/Core_logo.svg"
   },
   {
-    "chainId": 1116,
+    "chainId": 1115,
     "address": "0x4Ee616e8a517f4b409E9B5efE8372d5F56946c90",
     "name": "TEST Token",
     "symbol": "TEST",
